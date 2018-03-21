@@ -1,0 +1,2 @@
+Для тестирования должен быть установлен docker
+Запуск bash run.sh mail_server user password
